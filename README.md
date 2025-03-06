@@ -11,7 +11,7 @@ This research has been accepted for presentation at **BIBM 2024**.
 
 ### Features
 - **Multi-Task Learning (MTL):** Our approach leverages multiple cognitive objectives to enhance predictive performance.
-- **Temporal Task Modeling:** Incorporates sequential information to better capture disease progression trends.
+- **multi-cognitive objective Temporal Task Modeling:** Incorporates sequential information to better capture disease progression trends.
 - **Adaptive Learning Mechanism:** Dynamically adjusts task contributions to improve model generalization.
 - **State-of-the-Art Performance:** Outperforms existing methods in key AD progression prediction benchmarks.
 
